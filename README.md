@@ -10,6 +10,8 @@ Researcher with experience in functional programming, formal methods, programmin
 
 - [Galois Blog](https://galois.com/blog/):
   - [MATE: Interactive Program Analysis with Code Property Graphs](https://galois.com/blog/2022/08/mate-interactive-program-analysis-with-code-property-graphs/)
+  - [A Visual Guide to Pointer Analysis with cclyzer++: Part 1](https://galois.com/blog/2022/08/cclyzer/)
+  - [cclyzer++: Scalable and Precise Pointer Analysis for LLVM](https://galois.com/blog/2022/08/cclyzer-scalable-and-precise-pointer-analysis-for-llvm/)
   - [Under-Constrained Symbolic Execution with Crucible](https://galois.com/blog/2021/10/under-constrained-symbolic-execution-with-crucible/)
 - [Personal Blog](https://langston-barrett.github.io/):
   - [Survey of Static Reasoning in Haskell](https://langston-barrett.github.io/posts/static-reasoning-haskell.html)

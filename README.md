@@ -6,6 +6,7 @@ Researcher with experience in functional programming, formal methods, programmin
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
 - [UC-Crux-LLVM](https://github.com/GaloisInc/crucible/tree/master/uc-crux-llvm): Under-constrained symbolic execution for C and C++
 - [tree-sitter-souffle](https://github.com/langston-barrett/tree-sitter-souffle): A tree-sitter grammar for Soufflé Datalog
+- [souffle-lint](https://github.com/langston-barrett/souffle-lint): A linter for Soufflé Datalog
 
 ## Writing
 

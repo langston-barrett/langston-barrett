@@ -7,6 +7,7 @@ Researcher with experience in functional programming, formal methods, programmin
 - [UC-Crux-LLVM](https://github.com/GaloisInc/crucible/tree/master/uc-crux-llvm): Under-constrained symbolic execution for C and C++
 - [souffle-lint](https://langston-barrett.github.io/souffle-lint/): A linter for Soufflé Datalog
 - [tree-sitter-souffle](https://github.com/langston-barrett/tree-sitter-souffle): A tree-sitter grammar for Soufflé Datalog
+- [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
 
 ## Writing
 

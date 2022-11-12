@@ -21,6 +21,8 @@ Researcher with experience in functional programming, formal methods, programmin
   Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer
 - [nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight):
   Instrument the builds of tens of thousands of open-source packages
+- [Spacelix](https://github.com/langston-barrett/spacelix):
+  Spacemacs-like configuration for Helix
 - [tree-sitter-edit](https://docs.rs/tree-sitter-edit/0.1.0/tree_sitter_edit/):
   A crate for printing modified tree-sitter parse trees, intended for use in
   multi-language code refactoring, linting, or modification (codemod) tools

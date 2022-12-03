@@ -25,6 +25,8 @@ Researcher with experience in functional programming, formal methods, programmin
   Instrument the builds of tens of thousands of open-source packages
 - [Spacelix](https://github.com/langston-barrett/spacelix):
   Spacemacs-like configuration for Helix
+- [sql-cli](https://github.com/langston-barrett/sql-cli):
+  Dynamically generate CLIs from SQL databases that support CRUD operations
 - [tree-sitter-edit](https://docs.rs/tree-sitter-edit/0.1.0/tree_sitter_edit/):
   A crate for printing modified tree-sitter parse trees, intended for use in
   multi-language code refactoring, linting, or modification (codemod) tools

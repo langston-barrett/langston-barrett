@@ -13,6 +13,8 @@ Researcher with experience in functional programming, formal methods, programmin
 
 ### Other Projects
 
+- [anki-wikidata](https://github.com/langston-barrett/anki-wikidata):
+  Create high-quality Anki cards with data from Wikidata
 - [contract.el](https://github.com/langston-barrett/contract.el):
   Racket-style higher-order contracts for Emacs Lisp
 - [coq-big-o](https://github.com/langston-barrett/coq-big-o):

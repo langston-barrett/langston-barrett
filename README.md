@@ -23,6 +23,8 @@ Researcher with experience in functional programming, formal methods, programmin
   Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer
 - [fin-part-ord](https://docs.rs/fin-part-ord/0.1.0/fin_part_ord/index.html):
   Crate for representing finite partial orders
+- [mdlynx](https://github.com/langston-barrett/mdlynx):
+  Small, fast tool to find broken file links in Markdown documents
 - [nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight):
   Instrument the builds of tens of thousands of open-source packages
 - [Spacelix](https://github.com/langston-barrett/spacelix):

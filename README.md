@@ -29,6 +29,8 @@ Researcher with experience in functional programming, formal methods, programmin
   Small, fast tool to find broken file links in Markdown documents
 - [nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight):
   Instrument the builds of tens of thousands of open-source packages
+- [rdf-star-souffle](https://github.com/langston-barrett/rdf-star-souffle):
+  Toolkit for importing and reasoning about RDF-star data in Soufflé
 - [Spacelix](https://github.com/langston-barrett/spacelix):
   Spacemacs-like configuration for Helix
 - [sql-cli](https://github.com/langston-barrett/sql-cli):

@@ -6,10 +6,9 @@ Researcher with experience in functional programming, formal methods, programmin
 
 - [MATE](https://github.com/GaloisInc/MATE): A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
-- [UC-Crux-LLVM](https://github.com/GaloisInc/crucible/tree/master/uc-crux-llvm): Under-constrained symbolic execution for C and C++
 - [souffle-lint](https://langston-barrett.github.io/souffle-lint/): A linter for Soufflé Datalog
-- [tree-sitter-souffle](https://github.com/langston-barrett/tree-sitter-souffle): A tree-sitter grammar for Soufflé Datalog
 - [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
+- [Duckalog](https://github.com/langston-barrett/duckalog): Datalog engine based on DuckDB
 
 ### Other Projects
 
@@ -38,6 +37,7 @@ Researcher with experience in functional programming, formal methods, programmin
 - [tree-sitter-edit](https://docs.rs/tree-sitter-edit/0.1.0/tree_sitter_edit/):
   A crate for printing modified tree-sitter parse trees, intended for use in
   multi-language code refactoring, linting, or modification (codemod) tools
+- [tree-sitter-souffle](https://github.com/langston-barrett/tree-sitter-souffle): A tree-sitter grammar for Soufflé Datalog
 - [twjsrs](https://docs.rs/twjsrs/): 
   Crate for (de)serializing TiddlyWiki tiddlers to and from their JSON format
 - [write-yourself-a-scheme-in-agda](https://github.com/langston-barrett/write-yourself-a-scheme-in-agda):

@@ -6,9 +6,8 @@ Researcher with experience in functional programming, formal methods, programmin
 
 - [MATE](https://github.com/GaloisInc/MATE): A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
-- [souffle-lint](https://langston-barrett.github.io/souffle-lint/): A linter for Soufflé Datalog
 - [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
-- [Duckalog](https://github.com/langston-barrett/duckalog): Datalog engine based on DuckDB
+- [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
 
 ### Other Projects
 
@@ -20,6 +19,7 @@ Researcher with experience in functional programming, formal methods, programmin
   A formalization of Big O, Big Theta, and more based on normed vector spaces
 - [czz](https://github.com/langston-barrett/czz):
   Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer
+- [Duckalog](https://github.com/langston-barrett/duckalog): Datalog engine based on DuckDB
 - [fin-part-ord](https://docs.rs/fin-part-ord/0.1.0/fin_part_ord/index.html):
   Crate for representing finite partial orders
 - [Marki](https://github.com/langston-barrett/marki):
@@ -34,6 +34,7 @@ Researcher with experience in functional programming, formal methods, programmin
   Spacemacs-like configuration for Helix
 - [sql-cli](https://github.com/langston-barrett/sql-cli):
   Dynamically generate CLIs from SQL databases that support CRUD operations
+- [souffle-lint](https://langston-barrett.github.io/souffle-lint/): A linter for Soufflé Datalog
 - [tree-sitter-edit](https://docs.rs/tree-sitter-edit/0.1.0/tree_sitter_edit/):
   A crate for printing modified tree-sitter parse trees, intended for use in
   multi-language code refactoring, linting, or modification (codemod) tools

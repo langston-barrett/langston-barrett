@@ -8,6 +8,8 @@ Researcher with experience in functional programming, formal methods, programmin
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
 - [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
 - [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
+- [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator (black-box fuzzer)
+
 
 ### Other Projects
 

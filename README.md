@@ -30,6 +30,8 @@ Researcher with experience in functional programming, formal methods, programmin
 
 ### Tiny tools
 
+- [Icemaker](https://github.com/langston-barrett/marki):
+  A tool to minimize Rust files that trigger internal compiler errors (ICEs)
 - [Marki](https://github.com/langston-barrett/marki):
   Generate Anki cards from Markdown notes
 - [mdlynx](https://github.com/langston-barrett/mdlynx):

@@ -26,12 +26,13 @@ Researcher with experience in functional programming, formal methods, programmin
 - [czz](https://github.com/langston-barrett/czz):
   Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer
 - [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
-- [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator (black-box fuzzer)
+- [tree-crasher](https://github.com/langston-barrett/tree-crasher): Easy-to-use grammar-based black-box fuzzer
+- [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator
 
 ### Tiny tools
 
-- [Icemaker](https://github.com/langston-barrett/marki):
-  A tool to minimize Rust files that trigger internal compiler errors (ICEs)
+- [Icemelter](https://github.com/langston-barrett/icemelter):
+  Icemelter automates steps in debugging rustc internal compiler errors (ICEs)
 - [Marki](https://github.com/langston-barrett/marki):
   Generate Anki cards from Markdown notes
 - [mdlynx](https://github.com/langston-barrett/mdlynx):

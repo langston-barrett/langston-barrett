@@ -6,7 +6,8 @@ Researcher with experience in functional programming, formal methods, programmin
 
 - [MATE](https://github.com/GaloisInc/MATE): A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
-- [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
+- [Mogglo](https://github.com/langston-barrett/mogglo):
+  Multi-language AST-based code search and rewriting tool that supports embedding Lua code in patterns
 - [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
 - [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator (black-box fuzzer)
 

@@ -54,6 +54,8 @@ A comprehensive list is available [here](https://github.com/langston-barrett/lan
 
 ## Writing
 
+- [Publications](https://orcid.org/0009-0005-0190-8912):
+  - [Bring Your Own Data Structures to Datalog](https://2023.splashcon.org/details/splash-2023-oopsla/74/Bring-Your-Own-Data-Structures-to-Datalog) (OOPSLA '23, distinguished paper award)
 - [Galois Blog](https://galois.com/blog/):
   - [MATE: Interactive Program Analysis with Code Property Graphs](https://galois.com/blog/2022/08/mate-interactive-program-analysis-with-code-property-graphs/)
   - [A Visual Guide to Pointer Analysis with cclyzer++: Part 1](https://galois.com/blog/2022/08/cclyzer/)

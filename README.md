@@ -16,41 +16,15 @@ A comprehensive list is available [here](https://github.com/langston-barrett/lan
 ### Datalog
 
 - [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
-- [dlsubst](https://github.com/langston-barrett/dlsubst): Experimental bottom-up Datalog engine based on explicit substitutions
-- [Duckalog](https://github.com/langston-barrett/duckalog): Datalog engine based on DuckDB
 - [souffle-lint](https://langston-barrett.github.io/souffle-lint/): A linter for Soufflé Datalog
 - [treeedb](https://github.com/langston-barrett/treeedb): Generate Soufflé Datalog types, relations, and facts that represent ASTs from a variety of programming languages.
 - [tree-sitter-souffle](https://github.com/langston-barrett/tree-sitter-souffle): A tree-sitter grammar for Soufflé Datalog
 
 ### Fuzzing
 
-- [radamsa-sys](https://github.com/langston-barrett/radamsa-sys):
-  Rust bindings for Radamsa
 - [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
 - [tree-crasher](https://github.com/langston-barrett/tree-crasher): Easy-to-use grammar-based black-box fuzzer
 - [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator
-
-### Tiny tools
-
-- [Icemelter](https://github.com/langston-barrett/icemelter):
-  Icemelter automates steps in debugging rustc internal compiler errors (ICEs)
-
-### Tiny libraries
-
-- [fin-part-ord](https://docs.rs/fin-part-ord/0.1.0/fin_part_ord/index.html):
-  Crate for representing finite partial orders
-- [tree-sitter-edit](https://docs.rs/tree-sitter-edit/0.1.0/tree_sitter_edit/):
-  A crate for printing modified tree-sitter parse trees, intended for use in
-  multi-language code refactoring, linting, or modification (codemod) tools
-
-### Other
-
-- [contract.el](https://github.com/langston-barrett/contract.el):
-  Racket-style higher-order contracts for Emacs Lisp
-- [nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight):
-  Instrument the builds of tens of thousands of open-source packages
-- [write-yourself-a-scheme-in-agda](https://github.com/langston-barrett/write-yourself-a-scheme-in-agda):
-  Like "Write Yourself a Scheme in 48 Hours", but in Agda
 
 ## Writing
 

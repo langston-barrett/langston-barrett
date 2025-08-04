@@ -6,12 +6,7 @@ A comprehensive list is available [here](https://github.com/langston-barrett/lan
 
 ### Highlighted Projects
 
-- [MATE](https://github.com/GaloisInc/MATE): A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs
-- [cclyzer++](https://github.com/GaloisInc/cclyzerpp): a precise and scalable global pointer analysis for LLVM code
-- [Mogglo](https://github.com/langston-barrett/mogglo):
-  Multi-language AST-based code search and rewriting tool that supports embedding Lua code in patterns
-- [treereduce](https://github.com/langston-barrett/treereduce): A fast, parallel, syntax-aware test case reducer based on tree-sitter grammars
-- [tree-splicer](https://github.com/langston-barrett/tree-splicer): Simple grammar-based test case generator (black-box fuzzer)
+- [Lesshand](https://github.com/langston-barrett/lesshand): A shorthand for the 21st century
 
 ### Datalog
 
@@ -35,6 +30,7 @@ A comprehensive list is available [here](https://github.com/langston-barrett/lan
   - [A Visual Guide to Pointer Analysis with cclyzer++: Part 1](https://galois.com/blog/2022/08/cclyzer/)
   - [cclyzer++: Scalable and Precise Pointer Analysis for LLVM](https://galois.com/blog/2022/08/cclyzer-scalable-and-precise-pointer-analysis-for-llvm/)
   - [Under-Constrained Symbolic Execution with Crucible](https://galois.com/blog/2021/10/under-constrained-symbolic-execution-with-crucible/)
+  - [Introducing GREASE: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 - [Personal Blog](https://langston-barrett.github.io/):
   - [Survey of Static Reasoning in Haskell](https://langston-barrett.github.io/blog/static-reasoning-haskell/)
   - [Fun with Mypy: Reifying Runtime Relations on Types](https://langston-barrett.github.io/blog/mypy-reify/)

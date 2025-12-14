@@ -6,7 +6,7 @@ A comprehensive list is available [here](https://langston-barrett.github.io/md/p
 
 ### Highlighted Projects
 
-- [Lesshand](https://github.com/langston-barrett/lesshand): A shorthand for the 21st century
+- [Lūn](https://github.com/langston-barrett/lun): Run linters and formatters quickly
 
 ### Datalog
 
